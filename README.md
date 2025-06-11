@@ -1,2 +1,2 @@
-# Chat-Thumbnail-Generator
+# Chat Thumbnail Generator
 Generates fake chat messages to put in thumbnails.
